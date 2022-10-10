@@ -1,0 +1,14 @@
+body {
+    background-color: #ffffff;
+    background-size: 100px 100px;
+    font-family: Verdana, sans-serif;
+}
+
+.card {
+    max-width: 280px;
+}
+
+.card img {
+    max-width: 100%;
+}
+
