@@ -1,6 +1,18 @@
 body {
     color: black;
-    font-family: Verdana, sans-serif;
+    font-family: Helvetica, sans-serif;
+}
+
+.barra {
+    box-shadow: 1px 0px 1px black;
+    .camera {
+        display: flex;
+        justify-content: flex-end;
+        align-items: flex-start;
+        font-size: 2rem;
+        border: none;
+        background-color: transparent;
+    }
 }
 
 main {
